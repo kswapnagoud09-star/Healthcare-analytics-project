@@ -1,0 +1,6 @@
+patient_id,age,gender,diagnosis,readmitted,length_of_stay
+1,65,M,Diabetes,Yes,5
+2,50,F,Hypertension,No,3
+3,72,M,Heart Disease,Yes,7
+4,45,F,Asthma,No,2
+5,60,M,Diabetes,Yes,6
