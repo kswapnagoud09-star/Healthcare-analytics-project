@@ -4,8 +4,11 @@ Welcome to my Healthcare Data Analytics Portfolio!
 This repository showcases real-world data analytics projects focused on the healthcare domain, including data cleaning, transformation, analysis, and visualization.
 
 ## 👩‍💻 About Me
-Senior Data Analyst with 7+ years of experience transforming raw data into meaningful insights.  
-Focused on Healthcare Analytics, Data Quality, and Reporting.
+Healthcare Data Analyst with 7+ years of experience in data quality, claims analysis, and reporting.
+
+Skilled in SQL, Power BI, and Excel, with a strong focus on HEDIS metrics, patient outcomes, and healthcare data validation.
+
+Passionate about transforming raw healthcare data into actionable insights that improve patient care and reduce costs.
 
 ---
 
