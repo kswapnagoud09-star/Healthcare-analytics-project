@@ -1,4 +1,4 @@
-# 🏥 Healthcare Data Analytics Portfolio
+# 🏥 Healthcare Data Analytics Project Showcase
 
 Welcome to my Healthcare Data Analytics Portfolio!  
 This repository showcases real-world data analytics projects focused on the healthcare domain, including data cleaning, transformation, analysis, and visualization.
