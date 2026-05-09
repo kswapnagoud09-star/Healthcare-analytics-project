@@ -1,0 +1,11 @@
+measure_id,measure_name,measure_short,numerator_criteria,denominator_criteria,target_rate,measurement_year
+HED001,Controlling High Blood Pressure,CBP,Members with BP < 140/90,Members 18-85 with hypertension dx,0.60,2024
+HED002,Comprehensive Diabetes Care - HbA1c Testing,CDC-HBA1C,Members with HbA1c test in year,Members 18-75 with diabetes dx,0.85,2024
+HED003,Comprehensive Diabetes Care - HbA1c Control,CDC-CTRL,Members with HbA1c < 8.0%,Members 18-75 with diabetes dx,0.55,2024
+HED004,Annual Monitoring for Patients on Persistent Medications,MPM,Members with required lab tests,Members on persistent meds >= 180 days,0.80,2024
+HED005,Breast Cancer Screening,BCS,Members with mammogram,Women 50-74 without bilateral mastectomy,0.70,2024
+HED006,Colorectal Cancer Screening,COL,Members with appropriate screening,Members 45-75,0.65,2024
+HED007,Childhood Immunization Status,CIS,Children with all required immunizations,Children turning 2 during year,0.85,2024
+HED008,Adult BMI Assessment,ABA,Members with BMI documented,Members 18-74 with PCP visit,0.90,2024
+HED009,Plan All-Cause Readmissions,PCR,Unplanned readmissions within 30 days,Members with inpatient discharge,0.10,2024
+HED010,Medication Management for Asthma,MMA,Members with asthma controller meds >= 75% of days,Members 5-64 with persistent asthma,0.75,2024
