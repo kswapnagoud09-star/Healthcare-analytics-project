@@ -1,0 +1,51 @@
+patient_id,age,gender,diagnosis,readmitted,length_of_stay,admission_date,discharge_date,payer_type,attending_physician,department,icu_flag,comorbidity_count
+1,65,M,Diabetes,Yes,5,2024-01-05,2024-01-10,Medicare,Dr. Smith,Internal Medicine,No,2
+2,50,F,Hypertension,No,3,2024-01-07,2024-01-10,Medicaid,Dr. Jones,Cardiology,No,1
+3,72,M,Heart Disease,Yes,7,2024-01-08,2024-01-15,Medicare,Dr. Patel,Cardiology,Yes,3
+4,45,F,Asthma,No,2,2024-01-10,2024-01-12,Commercial,Dr. Kim,Pulmonology,No,0
+5,60,M,Diabetes,Yes,6,2024-01-12,2024-01-18,Medicare,Dr. Smith,Internal Medicine,No,2
+6,78,F,COPD,Yes,9,2024-01-14,2024-01-23,Medicare,Dr. Brown,Pulmonology,Yes,4
+7,55,M,Pneumonia,No,4,2024-01-15,2024-01-19,Commercial,Dr. Patel,Pulmonology,No,1
+8,67,F,Heart Disease,Yes,8,2024-01-16,2024-01-24,Medicare,Dr. Jones,Cardiology,Yes,3
+9,41,M,Appendicitis,No,2,2024-01-18,2024-01-20,Commercial,Dr. Kim,Surgery,No,0
+10,58,F,Diabetes,Yes,5,2024-01-20,2024-01-25,Medicaid,Dr. Smith,Internal Medicine,No,2
+11,74,M,Stroke,Yes,10,2024-01-22,2024-02-01,Medicare,Dr. Brown,Neurology,Yes,3
+12,49,F,UTI,No,3,2024-01-25,2024-01-28,Commercial,Dr. Patel,Internal Medicine,No,0
+13,63,M,Heart Disease,Yes,7,2024-01-27,2024-02-03,Medicare,Dr. Jones,Cardiology,Yes,2
+14,52,F,Hypertension,No,2,2024-01-29,2024-01-31,Medicaid,Dr. Kim,Cardiology,No,1
+15,70,M,Diabetes,Yes,6,2024-02-01,2024-02-07,Medicare,Dr. Smith,Internal Medicine,No,3
+16,38,F,Appendicitis,No,2,2024-02-03,2024-02-05,Commercial,Dr. Brown,Surgery,No,0
+17,81,M,COPD,Yes,11,2024-02-05,2024-02-16,Medicare,Dr. Patel,Pulmonology,Yes,4
+18,56,F,Pneumonia,No,4,2024-02-07,2024-02-11,Commercial,Dr. Jones,Pulmonology,No,1
+19,68,M,Stroke,Yes,9,2024-02-09,2024-02-18,Medicare,Dr. Kim,Neurology,Yes,2
+20,44,F,Asthma,No,3,2024-02-11,2024-02-14,Medicaid,Dr. Smith,Pulmonology,No,0
+21,75,M,Heart Disease,Yes,8,2024-02-13,2024-02-21,Medicare,Dr. Brown,Cardiology,Yes,3
+22,53,F,Diabetes,Yes,5,2024-02-15,2024-02-20,Medicaid,Dr. Patel,Internal Medicine,No,2
+23,61,M,Hypertension,No,3,2024-02-17,2024-02-20,Commercial,Dr. Jones,Cardiology,No,1
+24,47,F,UTI,No,2,2024-02-19,2024-02-21,Commercial,Dr. Kim,Internal Medicine,No,0
+25,69,M,Diabetes,Yes,7,2024-02-21,2024-02-28,Medicare,Dr. Smith,Internal Medicine,Yes,3
+26,80,F,COPD,Yes,10,2024-02-23,2024-03-04,Medicare,Dr. Brown,Pulmonology,Yes,4
+27,42,M,Pneumonia,No,3,2024-02-25,2024-02-28,Commercial,Dr. Patel,Pulmonology,No,1
+28,57,F,Heart Disease,Yes,7,2024-02-27,2024-03-05,Medicare,Dr. Jones,Cardiology,Yes,2
+29,66,M,Stroke,Yes,8,2024-03-01,2024-03-09,Medicare,Dr. Kim,Neurology,Yes,3
+30,48,F,Asthma,No,2,2024-03-03,2024-03-05,Medicaid,Dr. Smith,Pulmonology,No,0
+31,73,M,Diabetes,Yes,6,2024-03-05,2024-03-11,Medicare,Dr. Brown,Internal Medicine,No,2
+32,51,F,Hypertension,No,3,2024-03-07,2024-03-10,Commercial,Dr. Patel,Cardiology,No,1
+33,64,M,Heart Disease,Yes,9,2024-03-09,2024-03-18,Medicare,Dr. Jones,Cardiology,Yes,3
+34,39,F,Appendicitis,No,2,2024-03-11,2024-03-13,Commercial,Dr. Kim,Surgery,No,0
+35,77,M,COPD,Yes,11,2024-03-13,2024-03-24,Medicare,Dr. Smith,Pulmonology,Yes,4
+36,54,F,Diabetes,Yes,5,2024-03-15,2024-03-20,Medicaid,Dr. Brown,Internal Medicine,No,2
+37,62,M,Pneumonia,No,4,2024-03-17,2024-03-21,Commercial,Dr. Patel,Pulmonology,No,1
+38,70,F,Stroke,Yes,10,2024-03-19,2024-03-29,Medicare,Dr. Jones,Neurology,Yes,3
+39,46,M,UTI,No,2,2024-03-21,2024-03-23,Medicaid,Dr. Kim,Internal Medicine,No,0
+40,58,F,Hypertension,No,3,2024-03-23,2024-03-26,Commercial,Dr. Smith,Cardiology,No,1
+41,76,M,Heart Disease,Yes,8,2024-03-25,2024-04-02,Medicare,Dr. Brown,Cardiology,Yes,3
+42,43,F,Asthma,No,2,2024-03-27,2024-03-29,Commercial,Dr. Patel,Pulmonology,No,0
+43,67,M,Diabetes,Yes,6,2024-03-29,2024-04-04,Medicare,Dr. Jones,Internal Medicine,No,2
+44,55,F,COPD,Yes,8,2024-04-01,2024-04-09,Medicare,Dr. Kim,Pulmonology,Yes,3
+45,79,M,Stroke,Yes,12,2024-04-03,2024-04-15,Medicare,Dr. Smith,Neurology,Yes,4
+46,40,F,Appendicitis,No,2,2024-04-05,2024-04-07,Commercial,Dr. Brown,Surgery,No,0
+47,59,M,Hypertension,No,3,2024-04-07,2024-04-10,Medicaid,Dr. Patel,Cardiology,No,1
+48,71,F,Heart Disease,Yes,7,2024-04-09,2024-04-16,Medicare,Dr. Jones,Cardiology,Yes,2
+49,48,M,Pneumonia,No,4,2024-04-11,2024-04-15,Commercial,Dr. Kim,Pulmonology,No,1
+50,63,F,Diabetes,Yes,5,2024-04-13,2024-04-18,Medicaid,Dr. Smith,Internal Medicine,No,2
